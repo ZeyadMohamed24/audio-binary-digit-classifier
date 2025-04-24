@@ -126,6 +126,12 @@ This records audio from your microphone and predicts the spoken digit.
 - `reports/`: Visuals like confusion matrices and ROC curves
 
 ---
+## 👥 Authors
+
+- **Zeyad Mohamed** – [@ZeyadMohamed24](https://github.com/ZeyadMohamed24)
+- **Aya Essam** – [@AyaEssam2004](https://github.com/AyaEssam2004)
+- **Salsabeel Mohamed** – [@Salsabeel114](https://github.com/Salsabeel114)
+
 
 ## 🙏 Acknowledgments
 
