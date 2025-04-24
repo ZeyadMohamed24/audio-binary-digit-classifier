@@ -24,7 +24,7 @@ audio-binary-digit-classifier/
 │   ├── interim/              # Cleaned and validated audio
 │   ├── processed/            # Extracted feature data
 │   ├── rejected/             # Invalid or corrupt audio files
-│   └── external/             # Optional external datasets
+│   └── external/             # Recorded audio
 ├── reports/
 │   ├── metrics.csv           # Model performance metrics
 │   └── *.png                 # Confusion matrices, ROC curves, etc.
