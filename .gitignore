@@ -96,7 +96,7 @@ ehthumbs.db
 Thumbs.db
 
 # Project Specific
-/data/raw/*
+# /data/raw/*
 /data/interim/*
 /data/processed/*
 /data/external/*
